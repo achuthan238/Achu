@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-py3Dmol
-rdkit
-reportlab
